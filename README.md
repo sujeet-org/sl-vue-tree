@@ -186,6 +186,9 @@ You must include a [babel-polyfill](https://babeljs.io/docs/en/babel-polyfill) f
 
 [See IE11 Example](https://holiber.github.io/sl-vue-tree/demo/ie11test.html)
 
+# Vue3 Support
+Support for Vue3 coming soon. Check out [sl-vue-tree-next](https://github.com/kcsujeet/sl-vue-tree-next) while that is shaped up.
+
 # Contributing
 
 [See CONTRIBUTING.md](CONTRIBUTING.md)
