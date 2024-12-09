@@ -12,6 +12,9 @@ Customizable draggable tree component for Vue.js.
 npm i sl-vue-tree
 ```
 
+# Vue3 Support
+Support for Vue3 coming soon. Check out [sl-vue-tree-next](https://github.com/kcsujeet/sl-vue-tree-next) while that is being shaped up.
+
 # Quick Start
 
 ```html
@@ -185,9 +188,6 @@ slVueTree.traverse((node, nodeModel, path) => {
 You must include a [babel-polyfill](https://babeljs.io/docs/en/babel-polyfill) for the component to work correctly in IE11.
 
 [See IE11 Example](https://holiber.github.io/sl-vue-tree/demo/ie11test.html)
-
-# Vue3 Support
-Support for Vue3 coming soon. Check out [sl-vue-tree-next](https://github.com/kcsujeet/sl-vue-tree-next) while that is shaped up.
 
 # Contributing
 
